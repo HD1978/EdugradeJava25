@@ -33,7 +33,7 @@ public class Whileloop {
             Använd Scanner för att be användaren slå in ett tal mellan 1 och 100, kontrollera talet
             Jämför det inmatade talet med det genererade talet
             Programmet ger användaren ledtråd ifall det gissade talet var för lågt eller för högt
-            Så länge det gissade talet inte ej är korrekt får användaren göra nya försök
+            Så länge det gissade talet inte är korrekt får användaren göra nya försök
             Programmet registrerar hur många försök användaren fick göra för att få korrekt svar
            */
             /*
