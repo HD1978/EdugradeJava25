@@ -21,7 +21,7 @@ public class Forloop {
 
         int sum = 0;
         for (int i = 1; i <= 100; i++) {
-            sum += i;          // samma sak som sum = sum + i;
+            sum += i;          // samma som sum = sum + i;
         }
         System.out.println("Summan av 1 till 100 är: " +sum);
 

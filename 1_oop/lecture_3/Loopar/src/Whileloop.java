@@ -13,7 +13,7 @@ public class Whileloop {
         int index1 = 0;
         while (index1 < 21) {
             System.out.println(index1);
-            index1 += 2;          // index1 = index1 + 2
+            index1 += 2;          // samma som index1 = index1 + 2
         }
 
         System.out.println();
