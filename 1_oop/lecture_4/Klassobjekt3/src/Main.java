@@ -7,7 +7,7 @@ public class Main {
         firstBook.author = "John Grisham";     // Värdet John Grisham tilldelas till author i Book
         firstBook.pages = 360;                 // Värdet 360 tilldelas till pages i Book
         firstBook.language = "Svenska";        // Värdet Svenska tilldelas till language i Book
-        firstBook.genre = "Thriller";           // Värdet Deckare tilldelas till genre i Book
+        firstBook.genre = "Thriller";           // Värdet Thriller tilldelas till genre i Book
 
         firstBook.bokInfo();                   // Anropa metoden för att skriva ut bokinformationen
         firstBook.readTime();                  // Anropa metoden readTime för att visa tiden att läsa boken
