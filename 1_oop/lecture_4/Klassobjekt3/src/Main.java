@@ -11,7 +11,7 @@ public class Main {
 
         firstBook.bokInfo();                   // Anropa metoden för att skriva ut bokinformationen
         firstBook.readTime();                  // Anropa metoden readTime för att visa tiden att läsa boken
-        firstBook.bokGenre();                  // Anropa bokGenre
+        firstBook.bokGenre();                  // Anropa metoden bokGenre för att kontrollera genre
 
         System.out.println();
 

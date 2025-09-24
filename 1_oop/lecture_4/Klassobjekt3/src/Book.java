@@ -34,7 +34,7 @@ public class Book {         // klassen Book med dess egenskaper (attribut)
         String refGenre1 = "Deckare";
         String refGenre2 = "Thriller";
 
-        /* Kontrollera textsträngen Deckare mot genre som i sin tur erhölls från Main.
+        /* Kontrollera textsträngen listan ovan mot genre som i sin tur erhölls från Main.
         Metoden equals() används för att jämföra String mot varandra
         och genererar true eller false för resultatet */
         boolean compGenre1 = genre.equals(refGenre1);
