@@ -15,7 +15,7 @@ public class Book {         // klassen Book med dess egenskaper (attribut)
         System.out.println("Språk: " + language);
         System.out.println();
     }
-    void readTime() {        // skapa en metod med namnet readTime (hur lång tid det tar att läsa boken)
+    void readTime() {       // skapa en metod med namnet readTime (hur lång tid det tar att läsa boken)
         Scanner sc = new Scanner(System.in);
         System.out.print("Hur många sidor läser du varje dag? ");
         int pagesPerDay = sc.nextInt();    // antalet sidor som man läser varje dag
