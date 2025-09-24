@@ -21,7 +21,7 @@ public class Book {         /*   1.  Skapa en klass som heter Book */
 
     void bokInfo() {   /*   2.  Skapa en metod som skriver ut bokinfo i klassen Book. Metoden får heta bokInfo   */
         System.out.println("Titel: " + title);
-        System.out.println("Författare:: " + author);
+        System.out.println("Författare: " + author);
         System.out.println("Sidor: " + pages);
     }
 }
