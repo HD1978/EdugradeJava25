@@ -12,7 +12,7 @@ public class Main {
         firstBook.readTime();                  // Anropa metoden readTime för att visa tiden att läsa boken
 
         System.out.println();
-        
+
         // Ett till bokobjekt
         Book secondBook = new Book();
         secondBook.title = "vänaste land";
