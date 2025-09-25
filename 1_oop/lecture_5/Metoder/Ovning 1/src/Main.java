@@ -5,7 +5,7 @@ public class Main {
         System.out.println();
         int a = 7;
         int b = 4;
-        System.out.println("Dessa två tal " + a + ", " + b + " körs med enkla matematiska operationer nedan:");
+        System.out.println("Dessa två tal " + a + ", " + b + " körs genom enkla matematiska operationer nedan:");
         System.out.println();
 
         int resAdd = MathOperations.add(a, b);

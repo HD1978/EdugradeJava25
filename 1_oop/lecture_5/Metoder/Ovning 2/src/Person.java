@@ -6,7 +6,7 @@ en hälsning.
 för namn, ålder och staden där personen bor, och
 skriver ut en information
 
-- Metoderna är i static så att man inte behöver i Main skapa
+- Inkluderar static så att man inte behöver i Main skapa
 objekt av klassen Person i detta fall, utan kan kalla det direkt med hjälp
 av Person.metod();
  */

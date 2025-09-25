@@ -6,5 +6,4 @@ public class Main {
             Person.greet("John");
             Person.introduce("Danny", 23, "Stockholm");
         }
-
     }
