@@ -23,9 +23,13 @@ Skyddsutrustning: hjälm, bröstskydd, handskar, byxor, skor
 
 Utrustningen är från nivå 1 till 10, beroende vilken nivå fienden som blev slagen var på. Specifikt vad som upphittats avgörs av en slumpmässig generator med vissa givna villkor.
 
+-----
+
 ### Fiender
 Zombies, vampyrer, demoner och dess bossar.
 Nivåer 1 - 10.
+
+-----
 
 ### Kombatmekanism
 Total skada mot fienden: Nivå + vapen [min - max slumpgenererat]
