@@ -27,7 +27,7 @@ Utrustningen är från nivå 1 till 10, beroende vilken nivå fienden som blev s
 Zombies, vampyrer, demoner och dess bossar.
 Nivåer 1 - 10.
 
-#### Kombatmekanism
+### Kombatmekanism
 Total skada mot fienden: Nivå + vapen [min - max slumpgenererat]
 Tar emot skada från fienden: Fiendens attacknivå - [skyddutrustning och nivå], kan definieras som hp poäng.
 HP pool dränering: Nuvarande HP - hp poäng ovan. Vid noll är karaktären död och fajten måste tas om.
