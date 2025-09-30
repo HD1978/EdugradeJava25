@@ -18,7 +18,7 @@ Vitalitet: HP pool via nådd nivå (level)
 -----
 
 ### Utrustning
-Vapen: Svärd, trollstav, hammare, yxa
+Vapen: Svärd, trollstav, hammare, yxa   
 Skyddsutrustning: hjälm, bröstskydd, handskar, byxor, skor
 
 Utrustningen är från nivå 1 till 10, beroende vilken nivå fienden som blev slagen var på. Specifikt vad som upphittats avgörs av en slumpmässig generator med vissa givna villkor.
