@@ -11,8 +11,8 @@ En huvudkaraktär tar på sig rollen som hjälte för att rädda världen genom 
 Huvudkaraktären Javin får ökad stats via erfarenhetspoäng genom att bemöta och vinna över varelser. Vid maxnivå 10 har karaktären en god chans att ta kål på den sista bossen och rädda världen.
 Karaktären har följande stats: Attack, Försvar, Vitalitet
 
-Attack: min - max via vapen och nivå
-Försvar: Stats via utrustning och nivå
+Attack: min - max via vapen och nivå    
+Försvar: Stats via utrustning och nivå  
 Vitalitet: HP pool via nådd nivå (level) 
 
 -----
