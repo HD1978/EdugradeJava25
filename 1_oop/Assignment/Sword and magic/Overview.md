@@ -32,10 +32,10 @@ Nivåer 1 - 10.
 -----
 
 ### Kombatmekanism
-Total skada mot fienden: Nivå + vapen [min - max slumpgenererat]
-Tar emot skada från fienden: Fiendens attacknivå - [skyddutrustning och nivå], kan definieras som hp poäng.
-HP pool dränering: Nuvarande HP - hp poäng ovan. Vid noll är karaktären död och fajten måste tas om.
+Total skada mot fienden: Nivå + vapen [min - max slumpgenererat].    
+Tar emot skada från fienden: Fiendens attacknivå - [skyddutrustning och nivå], kan definieras som hp poäng.  
+HP pool dränering: Nuvarande HP - hp poäng ovan. Vid noll är karaktären död och fajten måste tas om.  
 
-Karaktären har en chans att göra Critical attack (slumpgenerator) för att ha en god chans mot bossarna. 
+Karaktären har en chans att göra Critical attack (slumpgenerator) för att ha en god chans mot bossarna.  
 
 -----
